@@ -1,5 +1,7 @@
 # Design-an-DC-to-AC-inverter-circuit-using-Eagle-software
 ## Exp 2: Design an DC to AC inverter circuit using Eagle software
+## Giri R
+## 212223060068
 # AIM:
 To design the schematic and PCB layout diagram of a DC to AC inverter circuit using Eagle software.
 # EQUIPMENT REQUIRED:
@@ -45,8 +47,10 @@ The quality of the output waveform depends on the switching method used. If the 
 
  
 # Schematic diagram
+![Schematic diagram ebm](https://github.com/user-attachments/assets/559c199c-1efa-42b4-bb07-4380f0ab78a3)
 
 # Layout diagram
+![layout diagram ebm](https://github.com/user-attachments/assets/a7ba091d-dd23-4e41-b4d6-d37d8c7f574d)
 
 # RESULT:
 Thus, the schematic and PCB layout for the DC to AC inverter circuit has been successfully designed using Eagle software.
